@@ -118,3 +118,18 @@ The Streamlit app link is currently inactive, but here is a video demonstrating 
 - **GitHub**  
 - **Visual Studio Code**
 
+
+
+
+---
+
+## 👥 Authors  
+This project was developed by the **Tura2030** team:
+
+- **Sukainah Alramadhan**  
+- **Shahad Aljahdali**  
+- **Maha Bunaydir**  
+- **Heba Al-Abdulmuhsin**  
+- **Reham Alsulaytin**
+
+
