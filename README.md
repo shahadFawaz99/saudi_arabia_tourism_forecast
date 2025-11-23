@@ -80,11 +80,7 @@ Best performer for domestic tourism.
 - Strong seasonal peaks  
 - Growth in tourism spending  
 - Clear upward long-term trends  
-- Forecast confidence ranges  
 
-(You can add figures inside the `results/` folder)
-
----
 
 ## 🎥 Project Demo 
  https://saudiarabiatourismforecast-yrjfkmor8tkwd9spo4fib9.streamlit.app/
