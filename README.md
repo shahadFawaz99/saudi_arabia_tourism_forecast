@@ -96,7 +96,6 @@ The Streamlit app link is currently inactive, but here is a video demonstrating 
 - Forecast accommodation demand and regional tourism patterns  
 - Improve model performance through further tuning and hybrid modeling  
 - Apply NLP to extract insights from visitor reviews and feedback  
-- Deploy the system as a live dashboard or API  
 
 ---
 
